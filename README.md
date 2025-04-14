@@ -100,8 +100,8 @@ This project showcases DAX, interactive dashboard design, slicer logic, and tool
 ---
 
 ## 📸 Preview
+![Dashboard Preview](images/dashboard_overview.png)
 
-*(Insert dashboard screenshot here)*
 
 ---
 
