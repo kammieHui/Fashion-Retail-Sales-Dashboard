@@ -101,8 +101,3 @@ This project showcases DAX, interactive dashboard design, slicer logic, and tool
 
 ## 📸 Preview
 ![Dashboard Preview](images/dashboard_overview.png)
-
-
----
-
-> 💡 Looking to simulate how markdowns and return behavior impact profit margins in a real-world setting, this dashboard offers clear takeaways for merchandising and operations teams alike.
